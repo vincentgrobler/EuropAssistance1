@@ -1,0 +1,86 @@
+.version.index /* version checker */
+{
+	color: #0000F4;
+	background-color: #1596DD;
+}
+
+.html
+{
+	background-color: #1E1F1C;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 410px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #1E1F1C;
+	padding-bottom: 90px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u302
+{
+	z-index: 2;
+	width: 438px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 94px;
+	left: 261px;
+}
+
+#u314
+{
+	z-index: 5;
+	height: 49px;
+	width: 120px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 304px;
+	left: 420px;
+	background: url("../images/u314.png") no-repeat 0px 0px;
+}
+
+#u314:hover
+{
+	background: url("../images/u314-r.png") no-repeat 0px 0px;
+}
+
+#u314:active
+{
+	background: url("../images/u314-m.png") no-repeat 0px 0px;
+}
+
+#u383
+{
+	z-index: 8;
+	width: 237px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 200px;
+	left: 356px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
